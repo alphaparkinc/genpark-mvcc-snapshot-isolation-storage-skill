@@ -1,0 +1,13 @@
+{
+  "name": "genpark-mvcc-snapshot-isolation-storage-skill",
+  "version": "1.0.0",
+  "description": "Multi-Version Concurrency Control (MVCC) engine guaranteeing non-blocking repeatable reads, snapshot isolation, and version chain garbage collection.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "mvcc",
+    "snapshot-isolation",
+    "concurrency-control",
+    "storage-engine"
+  ]
+}
